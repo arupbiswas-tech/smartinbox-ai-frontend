@@ -115,3 +115,13 @@ h1 {
   background: #72e0a7;
   box-shadow: 0 0 0.8rem rgb(114 224 167 / 65%);
 }
+
+.status-error {
+  border-color: rgb(255 128 128 / 35%);
+  color: #ffd0d0;
+}
+
+.status-error .status-dot {
+  background: #ff8585;
+  box-shadow: 0 0 0.8rem rgb(255 133 133 / 65%);
+}
